@@ -33,7 +33,7 @@
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.bankofcitic.***</string>
+				<string>com.bankofcitic.mobile</string>
 				<key>bundle-version</key>
 				<string>5.0.4</string>
 				<key>kind</key>
